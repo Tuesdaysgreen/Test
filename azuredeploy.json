@@ -34,6 +34,13 @@
       "type":"string",
       "defaultValue": "Free"
     },
+    "foo2":{
+      "type":"string",
+      "defaultValue": ""
+    },
+    "foo3":{
+      "type":"string"
+    },
     "someAppSetting": {
       "type": "string",
       "defaultValue": "Test App Setting Value"
