@@ -31,7 +31,8 @@
       "defaultValue": "0"
     },
     "foo":{
-      "type":"string"
+      "type":"string",
+      "defaultValue": "Free"
     },
     "someAppSetting": {
       "type": "string",
