@@ -30,6 +30,9 @@
       ],
       "defaultValue": "0"
     },
+    "foo":{
+      "type":"string"
+    },
     "someAppSetting": {
       "type": "string",
       "defaultValue": "Test App Setting Value"
