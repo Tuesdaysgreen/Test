@@ -46,10 +46,10 @@
       "defaultValue": "Test App Setting Value"
     },
     "numberOne":{
-      "type": "integer"
+      "type": "int"
     },
     "numberTwo":{
-      "type": "integer",
+      "type": "int",
       "defaultValue": 5
     },
     "repoUrl": {
