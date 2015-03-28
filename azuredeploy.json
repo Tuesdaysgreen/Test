@@ -52,6 +52,10 @@
       "type": "int",
       "defaultValue": 5
     },
+    "numberThree":{
+      "type": "int",
+      "defaultValue": ""
+    },
     "repoUrl": {
       "type": "string"
     },
